@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data (optional, if files are large)
+data/
+
+# MacOS
+.DS_Store
+
